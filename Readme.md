@@ -38,4 +38,3 @@ Start server, enable listener and run:
 It uses roadrunner, Laravel/Octane and temporal.
 If you prefer more traditional nginx/php server, checkout to the version 0.01 please.
 
-_Uladzimir Sadkou_: hofirma@gmail.com 
